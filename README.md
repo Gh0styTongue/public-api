@@ -1,5 +1,5 @@
 # Public API
 
-This repository is used as a static API for my other projects. Everything here is meant to be public, hence the name **public-api**.
+This repository is a static API for my projects. Everything here is public, as the name **public-api** suggests.
 
-It is primarily used for APIs that are not dynamic or for API scrapes where the scraped data is used by some of my projects. Additionally, it may contain files that aren't readily available outside of my repositories but are necessary for certain applications.
+It's mainly used for non-dynamic APIs, storing scraped data for my projects, or hosting files that aren't easily accessible outside my repositories but are still needed for certain applications.
